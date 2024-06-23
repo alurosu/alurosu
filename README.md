@@ -1,4 +1,4 @@
-## Expert Web Developer
+## Full Stack Developer
 
 I helped hundreds of clients by creating websites, shops, mobile apps, games, plugins and themes. I also added or changed features using popular frameworks or custom code.
 
